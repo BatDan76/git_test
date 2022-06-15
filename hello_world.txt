@@ -1,1 +1,2 @@
 Testing adding text to a file and then staging and ultimately commiting to repo
+Trying it on my own this time without looking at curriculum
